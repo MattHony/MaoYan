@@ -1,0 +1,10 @@
+{"index": "1", "image": "https://p1.meituan.net/movie/616cd50a33550a9225ac781e52d14ae54967551.jpg@160w_220h_1e_1c", "title": "流浪地球", "actor": "吴京,屈楚萧,李光洁", "time": "2019-02-05", "score": "9.3"}
+{"index": "2", "image": "https://p0.meituan.net/movie/c042fa48d4c53545a9b8a404dde760a13846552.jpg@160w_220h_1e_1c", "title": "白蛇：缘起", "actor": "张喆,杨天翔,唐小喜", "time": "2019-01-11", "score": "9.3"}
+{"index": "3", "image": "https://p1.meituan.net/movie/0ca4644c25ff01b7779a06e1ce4f1b011824360.jpg@160w_220h_1e_1c", "title": "熊出没·原始时代", "actor": "宋祖儿,谭笑,张伟", "time": "2019-02-05", "score": "9.2"}
+{"index": "4", "image": "https://p0.meituan.net/movie/af74ffd9de1ff4c524799bb426083b5a2969208.jpg@160w_220h_1e_1c", "title": "今夜在浪漫剧场", "actor": "绫濑遥,坂口健太郎,本田翼", "time": "2019-02-14", "score": "9.1"}
+{"index": "5", "image": "https://p1.meituan.net/movie/426f1f3f1b145f763b75a60c7c39c44a535093.jpg@160w_220h_1e_1c", "title": "大黄蜂", "actor": "海莉·斯坦菲尔德,约翰·塞纳,小豪尔赫·兰登伯格", "time": "2019-01-04", "score": "9.1"}
+{"index": "6", "image": "https://p0.meituan.net/movie/fc4dd6cd0c6f7db566a128cc05c475355664427.jpg@160w_220h_1e_1c", "title": "阿丽塔：战斗天使", "actor": "罗莎·萨拉查,克里斯托弗·沃尔兹,基恩·约翰逊", "time": "2019-02-22", "score": "8.9"}
+{"index": "7", "image": "https://p1.meituan.net/movie/fc655f89b8c7ce54c30f1a32a2416ade1042834.jpg@160w_220h_1e_1c", "title": "钢铁飞龙之奥特曼崛起", "actor": "2288;", "time": "2019-01-18", "score": "8.9"}
+{"index": "8", "image": "https://p0.meituan.net/movie/894fb3b5d73f48148a79b7d8ad234f5010214941.jpg@160w_220h_1e_1c", "title": "飞驰人生", "actor": "沈腾,黄景瑜,尹正", "time": "2019-02-05", "score": "8.8"}
+{"index": "9", "image": "https://p0.meituan.net/movie/caa49433185fd62b4384e3ad195ec1541309089.jpg@160w_220h_1e_1c", "title": "一吻定情", "actor": "王大陆,林允,钟丽缇", "time": "2019-02-14", "score": "8.6"}
+{"index": "10", "image": "https://p0.meituan.net/movie/6a21e35ad7106c60967954b165c09b92915222.jpg@160w_220h_1e_1c", "title": "疯狂的外星人", "actor": "黄渤,沈腾,马修·莫里森", "time": "2019-02-05", "score": "8.5"}
